@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 Tech Stack
 ---
+
+### 🛠 Tech Stack:
 
 Languages & Frameworks:
 <div>
@@ -60,6 +61,10 @@ VM Platforms:
 
 
 Machine Learning:
+<div>
+  <img src="https://enclaive.io/wp-content/uploads/2021/09/Scikit_learn_logo_small.svg" title="Sklearn" alt="Sklearn" width="50" height="50"/>&nbsp&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" title="Spacy" alt="Spacy" width="40" height="30"/>
+</div>
 
 <!--BI Tools:
 <div>
@@ -68,14 +73,26 @@ Machine Learning:
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Rshiny" **alt="Rshiny" width="40" height="40"/>
 </div>-->
 
-
 Cloud Platforms:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="50" height="50"/>
 </div>
 
+---
 
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carol0128&layout=compact&theme=vision-friendly-dark)](https://github.com/Carol0128/github-readme-stats)
+
+---
 ### Connect With Me
-LinkedIn
-Twitter
+<div>
+ <a href="https://www.linkedin.com/in/carol-obura/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>&nbsp&nbsp;
+ <a href="https://twitter.com/_obura_">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
+  </a>
+</div>
+
 
