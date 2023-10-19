@@ -27,9 +27,9 @@ I'm open to remote/hybrid data roles, as well as collaborations on data science 
 
 ### 🛠 Tech Stack:
 
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
-![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
-![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%252300f?logo=mysql&color=white)
+![R](https://img.shields.io/badge/R-%252300f?logo=R&color=blue)
 
 ![Django](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
