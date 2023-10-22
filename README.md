@@ -34,6 +34,7 @@ I'm open to remote/hybrid data roles, as well as collaborations on data science 
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&color=darkgreen)
 ![FastAPI](https://img.shields.io/badge/FastAPI-008080?logo=fastapi&color=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-f2743d?logo=git&color=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?logo=github&color=black)
