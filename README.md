@@ -17,7 +17,7 @@
 
 ---
 
-### Hi there 👋, I'm [Carol Obura](https://www.linkedin.com/in/carol-obura/)
+## Hi there 👋, I'm [Carol Obura](https://www.linkedin.com/in/carol-obura/)
 
 Carol is  a data scientist with a strong passion for machine learning, constantly seeking new opportunities to apply my skills and explore the latest technologies in the field. With experience in statistical analysis, data visualization, and predictive modeling, I am dedicated to leveraging data-driven insights to solve real world challenges and drive success.
 
@@ -25,7 +25,7 @@ Carol is  a data scientist with a strong passion for machine learning, constantl
 I'm open to remote/hybrid data roles, as well as collaborations on data science and machine learning related projects and challenges.
 
 
-### 🛠 Tech Stack:
+## 🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-%25252300f?logo=MySQL&color=white)
@@ -48,7 +48,7 @@ I'm open to remote/hybrid data roles, as well as collaborations on data science 
 ![Spacy](https://img.shields.io/badge/Spacy-3d85c6?logo=spacy&color=white)
 
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carol0128&layout=compact&theme=vision-friendly-dark)](https://github.com/Carol0128/github-readme-stats)
 
