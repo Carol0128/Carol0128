@@ -28,26 +28,30 @@ I'm open to remote/hybrid data roles, as well as collaborations on data science 
 ### 🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%252300f?logo=mysql&color=white)
+![MySQL](https://img.shields.io/badge/MySQL-%25252300f?logo=MySQL&color=white)
 ![R](https://img.shields.io/badge/R-%252300f?logo=R&color=blue)
+![SQLite](https://img.shields.io/badge/SQLite-89bff1?logo=sqlite&color=blue)
 
-![Django](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&color=darkgreen)
+![FastAPI](https://img.shields.io/badge/FastAPI-008080?logo=fastapi&color=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f2743d?logo=git&color=white)
+![Github](https://img.shields.io/badge/GitHub-181717?logo=github&color=black)
+![Gitlab](https://img.shields.io/badge/GitLab-ef6022?logo=gitlab&color=white)
+![Docker](https://img.shields.io/badge/Docker-1666d1?logo=docker&color=white)
+
+<!--
+![GCP](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![BigQuery](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+-->
+![Sklearn](https://img.shields.io/badge/Sklearn-7cb7f9?logo=scikit-learn&color=lightblue)
+![Spacy](https://img.shields.io/badge/Spacy-3d85c6?logo=spacy&color=white)
 
 
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carol0128&layout=compact&theme=vision-friendly-dark)](https://github.com/Carol0128/github-readme-stats)
+
 
 ---
 ### Connect With Me
