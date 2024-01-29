@@ -19,7 +19,7 @@
 
 ## Hi there 👋, I'm [Carol Obura](https://www.linkedin.com/in/carol-obura/)
 
-Carol is  a data scientist with a strong passion for machine learning, constantly seeking new opportunities to apply my skills and explore the latest technologies in the field. With experience in statistical analysis, data visualization, and predictive modeling, I am dedicated to leveraging data-driven insights to solve real world challenges and drive success.
+I am a data scientist with a strong passion for machine learning, constantly seeking new opportunities to apply my skills and explore the latest technologies in the field. With experience in statistical analysis, data visualization, and predictive modeling, I am dedicated to leveraging data-driven insights to solve real world challenges and drive success.
 
 
 I'm open to remote/hybrid data roles, as well as collaborations on data science and machine learning related projects and challenges.
